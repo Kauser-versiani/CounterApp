@@ -14,14 +14,15 @@ body{
    align-items: center;
    font-family: Poppins;
    font-size: 70px;
-   /* margin-top: 100px; */
+   position: relative;
+   top: 100px;
 }
 .container{
     margin-top: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
-    /* height: 50%; */
+    height: 60%;
 }
 .body-card{
     background-color: white;
